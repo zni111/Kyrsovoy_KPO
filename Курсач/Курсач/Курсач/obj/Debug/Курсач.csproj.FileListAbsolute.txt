@@ -58,3 +58,19 @@ E:\YandexDisk\_универ\3 курс\Конструирование ПО\_ку
 E:\YandexDisk\_универ\3 курс\Конструирование ПО\_курсовая\Курсач\Курсач\Курсач\obj\Debug\Курсач.csproj.GenerateResource.Cache
 E:\YandexDisk\_универ\3 курс\Конструирование ПО\_курсовая\Курсач\Курсач\Курсач\obj\Debug\Курсач.SaveForm.resources
 E:\YandexDisk\_универ\3 курс\Конструирование ПО\_курсовая\Курсач\Курсач\Курсач\obj\Debug\Курсач.EmployerForm.resources
+C:\Users\Никита\Desktop\Kyrsovoy_KPO\Курсач\Курсач\Курсач\bin\Debug\Курсач.exe.config
+C:\Users\Никита\Desktop\Kyrsovoy_KPO\Курсач\Курсач\Курсач\obj\Debug\Курсач.exe
+C:\Users\Никита\Desktop\Kyrsovoy_KPO\Курсач\Курсач\Курсач\obj\Debug\Курсач.pdb
+C:\Users\Никита\Desktop\Kyrsovoy_KPO\Курсач\Курсач\Курсач\bin\Debug\Курсач.exe
+C:\Users\Никита\Desktop\Kyrsovoy_KPO\Курсач\Курсач\Курсач\bin\Debug\Курсач.pdb
+C:\Users\Никита\Desktop\Kyrsovoy_KPO\Курсач\Курсач\Курсач\obj\Debug\Курсач.csprojResolveAssemblyReference.cache
+C:\Users\Никита\Desktop\Kyrsovoy_KPO\Курсач\Курсач\Курсач\obj\Debug\Курсач.BossForm.resources
+C:\Users\Никита\Desktop\Kyrsovoy_KPO\Курсач\Курсач\Курсач\obj\Debug\Курсач.CustomerForm.resources
+C:\Users\Никита\Desktop\Kyrsovoy_KPO\Курсач\Курсач\Курсач\obj\Debug\Курсач.EmployerForm.resources
+C:\Users\Никита\Desktop\Kyrsovoy_KPO\Курсач\Курсач\Курсач\obj\Debug\Курсач.EnterDataForm.resources
+C:\Users\Никита\Desktop\Kyrsovoy_KPO\Курсач\Курсач\Курсач\obj\Debug\Курсач.MainForm.resources
+C:\Users\Никита\Desktop\Kyrsovoy_KPO\Курсач\Курсач\Курсач\obj\Debug\Курсач.LoginForm.resources
+C:\Users\Никита\Desktop\Kyrsovoy_KPO\Курсач\Курсач\Курсач\obj\Debug\Курсач.MakeDealForm.resources
+C:\Users\Никита\Desktop\Kyrsovoy_KPO\Курсач\Курсач\Курсач\obj\Debug\Курсач.Properties.Resources.resources
+C:\Users\Никита\Desktop\Kyrsovoy_KPO\Курсач\Курсач\Курсач\obj\Debug\Курсач.SaveForm.resources
+C:\Users\Никита\Desktop\Kyrsovoy_KPO\Курсач\Курсач\Курсач\obj\Debug\Курсач.csproj.GenerateResource.Cache
